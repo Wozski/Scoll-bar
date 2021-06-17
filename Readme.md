@@ -1,3 +1,3 @@
 * Scoll-bar Css
-![image](files/Users/jzhang/Desktop/Isolated.png)
-!()
+![image](example.png)
+![Example](http://wozski.tw/Css/scollbar/)
